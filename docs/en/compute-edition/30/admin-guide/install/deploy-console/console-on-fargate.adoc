@@ -239,7 +239,7 @@ Replace the strings between the `< >` characters, and save the file with the nam
                     "containerPort": 8083
                 },
                                 {
-                    "targetGroupArn": "<pc-tgt-8083 ARN>",
+                    "targetGroupArn": "<pc-tgt-8084 ARN>",
                     "containerName": "twistlock-console",
                     "containerPort": 8084
                 }
